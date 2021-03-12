@@ -1,32 +1,32 @@
 {
-    "data": {
-        "title": "JavaScript Flashcards",
-        "cards": [
-            {
-                "question": "Em que idioma os aplicativos Express são escritos?",
-                "hint": "Começa com um \" J \ "",
-                "answer": "JavaScript"
-            },
-            {
-                "question": "Qual é uma maneira de um site armazenar dados de um usuário no navegador ?",
-                "hint": "Ficam deliciosos com leite",
-                "answer": "Cookies"
-            },
-            {
-                "question": "Qual é uma maneira comum de encurtar o nome do objeto de resposta dentro do middleware?",
-                "hint": "em a mesma abreviatura de \" resolution\ " ",
-                "answer": "res"
-            },
-            {
-                "question": "Quantos valores diferentes os booleanos podem ter?",
-                "hint": "Pense: binário",
-                "answer": "2"
-            },
-            {
-                "question": "Qual elemento HTML pode conter JavaScript?",
-                "hint": "Começa com um \" s \ " ",
-                "answer": "<script>"
-            }
-        ]
-    }
+  "data": {
+      "title": "JavaScript Flashcards",
+      "cards": [
+          {
+              "question": "Em que idioma os aplicativos Express são escritos?",
+              "hint": "Começa com um \" J \ "",
+              "answer": "JavaScript"
+          },
+          {
+              "question": "Qual é uma maneira de um site armazenar dados de um usuário no navegador ?",
+              "hint": "Ficam deliciosos com leite",
+              "answer": "Cookies"
+          },
+          {
+              "question": "Qual é uma maneira comum de encurtar o nome do objeto de resposta dentro do middleware?",
+              "hint": "em a mesma abreviatura de \" resolution\ " ",
+              "answer": "res"
+          },
+          {
+              "question": "Quantos valores diferentes os booleanos podem ter?",
+              "hint": "Pense: binário",
+              "answer": "2"
+          },
+          {
+              "question": "Qual elemento HTML pode conter JavaScript?",
+              "hint": "Começa com um \" s \ " ",
+              "answer": "<script>"
+          }
+      ]
+  }
 }
